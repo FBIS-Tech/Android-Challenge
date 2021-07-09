@@ -35,6 +35,7 @@ Your application will be reviewed by our engineers. The aspects of your code we 
 
 
 <details>
+ <br>
 <summary>Now the challenge 👇🏾</summary>
  
 * Show a list of items (yeah, probably you did this dozens of times 😅)
@@ -42,6 +43,7 @@ Your application will be reviewed by our engineers. The aspects of your code we 
 * Once an item is clicked it must navigate to a details page
 * In the details page: it must show more information of the item
 
-Feel free to use any free and public API i.e [Rick and Morty API](https://rickandmortyapi.com/), [Pokémon API](https://pokeapi.co/)
-
+ <br>
+Feel free to use any free and public API i.e (Rick and Morty API) https://rickandmortyapi.com/) or [Pokémon API] (https://pokeapi.co/)
+ 
 </details>
