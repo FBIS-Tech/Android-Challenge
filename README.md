@@ -44,6 +44,6 @@ Your application will be reviewed by our engineers. The aspects of your code we 
 * In the details page: it must show more information of the item
 
  <br>
-Feel free to use any free and public API i.e (Rick and Morty API) https://rickandmortyapi.com/) or [Pokémon API] (https://pokeapi.co/)
+Feel free to use any free and public API i.e [Rick and Morty API] (https://rickandmortyapi.com/) or [Pokémon API] (https://pokeapi.co/)
  
 </details>
